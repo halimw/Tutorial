@@ -1,0 +1,1 @@
+content of newtest1, added after git add
