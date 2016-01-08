@@ -1,5 +1,5 @@
 content of newtest1, added after second git add
 
-additiona line
+i amend something here additiona line
 
 added from web
